@@ -1,6 +1,7 @@
 # Java-REST-API-example
 Implementing an application in java which provides a REST API with endpoints for searching, creating and deleting “task” objects.
-Step 1 - Initializing  Node.js Project - We initialize a Node.js project using npm and installing the Express framework.
+
+Step 1 - Initializing Node.js Project - We initialize a Node.js project using npm and installing the Express framework.
  - Open a terminal in your project directory.
  - Run "npm init" and follow the prompts to create a package.json file.
  - Run "npm i express" to install the Express framework.
