@@ -5,6 +5,7 @@ Step 1 - Initializing Node.js Project - We initialize a Node.js project using np
  - Open a terminal in your project directory.
  - Run "npm init" and follow the prompts to create a package.json file.
  - Run "npm i express" to install the Express framework.
+   
 Step 2 - We Create and Run a Basic Express Application
   - In the Project Directory we create a File Named App.js and Write the Basic Express Application in it .
   - Host the Created Basic Express Application Locally and run the application using " node .\app.js" or "nodemon .\app.js" for automatic 
