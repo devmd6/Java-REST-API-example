@@ -61,7 +61,7 @@ app.get("/api/v1/product/:id", async (req, res) => {
 
 
 //create task
-const candidateName = "RajeshSingh";
+const candidateName = "Devamittran";
 const getRandomCharacters = (inputString, count) => {
     const shuffled = inputString.split('').sort(() => 0.5 - Math.random());
     return shuffled.slice(0, count).join('');
